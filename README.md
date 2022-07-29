@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoldrain-f&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldrain-f)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kakusi@naver.com)](https://solved.ac/openlook/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kakusi@naver.com)](https://solved.ac/kakusi@naver.com/)
 
 # SKILLS
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
