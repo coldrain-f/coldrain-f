@@ -1,7 +1,9 @@
 # IN SANG WOON 😘
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20coldrain-f%20%20&height=200&fontSize=100)
+## GIT STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldrain-f)](https://github.com/anuraghazra/github-readme-stats)
+## BAEKJOON SOLVED.AC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=openlook)](https://solved.ac/openlook/)
 
 # 🏹 SKILLS
