@@ -1,6 +1,6 @@
 # IN SANG WOON 😘
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20coldrain-f%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome&fontSize=70&animation=scaleIn)
 ## GIT STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldrain-f)](https://github.com/anuraghazra/github-readme-stats)
 ## BAEKJOON SOLVED.AC
