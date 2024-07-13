@@ -6,6 +6,9 @@
 ## BAEKJOON SOLVED.AC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=openlook)](https://solved.ac/openlook/)
 
+## CODE-TREE
+[![코드트리|실력진단-kakusi](https://banner.codetree.ai/v1/banner/kakusi)](https://www.codetree.ai/profiles/kakusi)
+
 # 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
