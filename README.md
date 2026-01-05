@@ -1,13 +1,9 @@
 # IN SANG WOON 😄
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome&fontSize=70&animation=scaleIn)
-## GIT STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldrain-f)](https://github.com/anuraghazra/github-readme-stats)
+
 ## BAEKJOON SOLVED.AC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=openlook)](https://solved.ac/openlook/)
-
-## CODE-TREE
-[![코드트리|실력진단-kakusi](https://banner.codetree.ai/v1/banner/kakusi)](https://www.codetree.ai/profiles/kakusi)
 
 # 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
